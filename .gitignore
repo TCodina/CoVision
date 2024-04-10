@@ -1,0 +1,9 @@
+# Exclude all data files and saved models
+ngrok.yml
+data/*
+*.jpg
+*.png
+*.pth
+
+
+
